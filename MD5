@@ -1,0 +1,15 @@
+9eb31871850feee3c7bcfb3fcaf2a443 *DESCRIPTION
+7e54b405ba55156187f54255890b5461 *NAMESPACE
+e8b21b6d957b8de61472f04f37febe24 *R/Qhat.R
+f540aa84bb01bc1dfdee4f610bd2777a *R/adaptiveLasso.R
+75bea3d49dacf790537669625dcab479 *R/censored.R
+5041a1b89e0e3b4453d71a2eae718b55 *R/constantCase.R
+90583e9d1adf64bfb38cdf7250eb75b6 *R/linearCase.R
+ba7e1436a4c43a001496fbf35a7394bd *R/uncensored.R
+2a78088dc3c7bee7205580bd126cc47c *R/weights.R
+f54a96af63ca4f3257a66d83a23ff77c *R/zzz.R
+f250d8b6ece0c3b5254f752b3e1f16b8 *build/partial.rdb
+673195b9f33f25e4d0532a3210d0bde8 *man/OTRselect-package.Rd
+ef30ac175c6bf9fd8a51ec89c934708a *man/Qhat.Rd
+ca49fe9b6c65b5634cf2005cbca0e5d3 *man/censored.Rd
+e6dc066d7ac7780dccb12acfab7963b5 *man/uncensored.Rd
