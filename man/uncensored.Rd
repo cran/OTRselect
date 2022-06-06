@@ -29,7 +29,7 @@ Statistical Methods in Medical Research, 22, 493--504.
 PMCID: PMC3303960.
 }
 \author{
-Wenbin Lu, Hao Helen Zhang, Donglin Zeng, and Shannon Holloway}
+Wenbin Lu, Hao Helen Zhang, Donglin Zeng, and Shannon T. Holloway}
 
 \examples{
   sigma <- diag(10)

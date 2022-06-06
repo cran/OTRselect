@@ -32,7 +32,7 @@ Statistics in Medicine, 34, 1169--1184.
 PMCID: PMC4355217.
 }
 \author{
-Wenbin Lu, Hao Helen Zhang, Yuan Geng, and Shannon Holloway}
+Wenbin Lu, Hao Helen Zhang, Yuan Geng, and Shannon T. Holloway}
 
 \examples{
   sigma <- diag(10)
