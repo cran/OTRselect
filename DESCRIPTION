@@ -1,8 +1,8 @@
 Package: OTRselect
 Type: Package
 Title: Variable Selection for Optimal Treatment Decision
-Version: 1.1
-Date: 2022-06-05
+Version: 1.2
+Date: 2023-11-24
 Author: Wenbin Lu, Hao Helen Zhang, Donglin Zeng, Yuan Geng, and 
     Shannon T. Holloway
 Maintainer: Shannon T. Holloway <shannon.t.holloway@gmail.com>
@@ -12,6 +12,6 @@ Description: A penalized regression framework that can simultaneously estimate
 License: GPL-2
 Depends: stats, lars, survival, methods
 NeedsCompilation: no
-Packaged: 2022-06-05 19:27:23 UTC; 19194
+Packaged: 2023-11-24 17:24:43 UTC; 19194
 Repository: CRAN
-Date/Publication: 2022-06-06 23:10:30 UTC
+Date/Publication: 2023-11-24 17:50:02 UTC

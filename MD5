@@ -1,5 +1,6 @@
-d94dd8d2968cba5aecfdef62353402d8 *DESCRIPTION
+310d4f076a7fca09de09553081768474 *DESCRIPTION
 7e54b405ba55156187f54255890b5461 *NAMESPACE
+9bffb3dfdee498582ae0e819ca426e11 *NEWS
 e8b21b6d957b8de61472f04f37febe24 *R/Qhat.R
 f540aa84bb01bc1dfdee4f610bd2777a *R/adaptiveLasso.R
 75bea3d49dacf790537669625dcab479 *R/censored.R
@@ -8,8 +9,8 @@ f540aa84bb01bc1dfdee4f610bd2777a *R/adaptiveLasso.R
 ba7e1436a4c43a001496fbf35a7394bd *R/uncensored.R
 2a78088dc3c7bee7205580bd126cc47c *R/weights.R
 f54a96af63ca4f3257a66d83a23ff77c *R/zzz.R
-e5a006df9c304520a832389785b99d37 *build/partial.rdb
+01a4dae695e723e299cae580ff6ac159 *build/partial.rdb
 673195b9f33f25e4d0532a3210d0bde8 *man/OTRselect-package.Rd
 7c14d8529416a20208afa9bbe8ad5d96 *man/Qhat.Rd
-bc426e16ebf46c08d68c0ba9fccfcf9c *man/censored.Rd
-f66e8a8e02cd3ee99d8a25ca82b88196 *man/uncensored.Rd
+1b24c2793fe1f57a7ab0a85eb20012ae *man/censored.Rd
+a4f07f18cd426f8618fe7b2fd1552d36 *man/uncensored.Rd

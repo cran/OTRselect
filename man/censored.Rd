@@ -15,7 +15,7 @@ censored(x, y, a, delta, propen, phi, logY = TRUE,
   \item{a}{Vector of treatment received. Treatments must be coded as integers or numerics that can be recast as integers without loss of information.}
   \item{delta}{Event indicator vector. The indicator must be coded as 0/1 where 0=no event and 1=event.}
   \item{propen}{Vector or matrix of propensity scores for each treatment. If a vector, the propensity is assumed to be the same for all samples. Column or element order must correspond to the sort order of the treatment variable, i.e., 0,1,2,3,... If the number of columns/elements in propen is one fewer than the total number of treatment options, it is assumed that the base or lowest valued treatment has not been provided. }
-  \item{phi}{A character {'c' or 'l'} indicating if the constant ('c') or linear ('l') baseline mean function is to be used.}
+  \item{phi}{A character \{'c' or 'l'\} indicating if the constant ('c') or linear ('l') baseline mean function is to be used.}
   \item{logY}{TRUE/FALSE indicating if log(y) is to be used for regression.}
   \item{intercept}{TRUE/FALSE indicating if an intercept is to be included in phi model. }
 }
